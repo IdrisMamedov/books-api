@@ -1,75 +1,172 @@
 {
-    "books": [
-      {
-        "id": "1",
-        "title": "The Hobbit",
-        "author": "J.R.R. Tolkien",
-        "genre": "Fantasy",
-        "publishedYear": 1937
-      },
-      {
-        "id": "2",
-        "title": "1984",
-        "author": "George Orwell",
-        "genre": "Dystopian",
-        "publishedYear": 1949
-      },
-      {
-        "id": "3",
-        "title": "To Kill a Mockingbird",
-        "author": "Harper Lee",
-        "genre": "Fiction",
-        "publishedYear": 1960
-      },
-      {
-        "id": "4",
-        "title": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "genre": "Classic",
-        "publishedYear": 1925
-      },
-      {
-        "id": "5",
-        "title": "Moby-Dick",
-        "author": "Herman Melville",
-        "genre": "Adventure",
-        "publishedYear": 1851
-      },
-      {
-        "id": "6",
-        "title": "Pride and Prejudice",
-        "author": "Jane Austen",
-        "genre": "Romance",
-        "publishedYear": 1813
-      },
-      {
-        "id": "7",
-        "title": "Brave New World",
-        "author": "Aldous Huxley",
-        "genre": "Dystopian",
-        "publishedYear": 1932
-      },
-      {
-        "id": "8",
-        "title": "The Catcher in the Rye",
-        "author": "J.D. Salinger",
-        "genre": "Fiction",
-        "publishedYear": 1951
-      },
-      {
-        "id": "9",
-        "title": "Crime and Punishment",
-        "author": "Fyodor Dostoevsky",
-        "genre": "Psychological Fiction",
-        "publishedYear": 1866
-      },
-      {
-        "id": "10",
-        "title": "War and Peace",
-        "author": "Leo Tolstoy",
-        "genre": "Historical Fiction",
-        "publishedYear": 1869
-      }
-    ]
-  }
-  
+  "books": [
+    {
+      "id": "1",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "genre": "Fantasy",
+      "publishedYear": 2016
+    },
+    {
+      "id": "2",
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead",
+      "genre": "Historical Fiction",
+      "publishedYear": 2016
+    },
+    {
+      "id": "3",
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian",
+      "publishedYear": 2017
+    },
+    {
+      "id": "4",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "genre": "Historical Fiction",
+      "publishedYear": 2017
+    },
+    {
+      "id": "5",
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "genre": "Fantasy",
+      "publishedYear": 2018
+    },
+    {
+      "id": "6",
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "genre": "Mystery",
+      "publishedYear": 2018
+    },
+    {
+      "id": "7",
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "genre": "Romance",
+      "publishedYear": 2018
+    },
+    {
+      "id": "8",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Thriller",
+      "publishedYear": 2019
+    },
+    {
+      "id": "9",
+      "title": "The Testaments",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian",
+      "publishedYear": 2019
+    },
+    {
+      "id": "10",
+      "title": "The Night Watchman",
+      "author": "Louise Erdrich",
+      "genre": "Historical Fiction",
+      "publishedYear": 2020
+    },
+    {
+      "id": "11",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Fantasy",
+      "publishedYear": 2020
+    },
+    {
+      "id": "12",
+      "title": "The Invisible Life of Addie LaRue",
+      "author": "V.E. Schwab",
+      "genre": "Fantasy",
+      "publishedYear": 2020
+    },
+    {
+      "id": "13",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "publishedYear": 2021
+    },
+    {
+      "id": "14",
+      "title": "The Last House on Needless Street",
+      "author": "Catriona Ward",
+      "genre": "Thriller",
+      "publishedYear": 2021
+    },
+    {
+      "id": "15",
+      "title": "The Paris Library",
+      "author": "Janet Skeslien Charles",
+      "genre": "Historical Fiction",
+      "publishedYear": 2021
+    },
+    {
+      "id": "16",
+      "title": "The Maid",
+      "author": "Nita Prose",
+      "genre": "Mystery",
+      "publishedYear": 2022
+    },
+    {
+      "id": "17",
+      "title": "Cloud Cuckoo Land",
+      "author": "Anthony Doerr",
+      "genre": "Literary Fiction",
+      "publishedYear": 2022
+    },
+    {
+      "id": "18",
+      "title": "The Parisian",
+      "author": "Isabella Hammad",
+      "genre": "Historical Fiction",
+      "publishedYear": 2022
+    },
+    {
+      "id": "19",
+      "title": "The Candy House",
+      "author": "Jennifer Egan",
+      "genre": "Science Fiction",
+      "publishedYear": 2022
+    },
+    {
+      "id": "20",
+      "title": "The Lincoln Highway",
+      "author": "Amor Towles",
+      "genre": "Historical Fiction",
+      "publishedYear": 2022
+    },
+    {
+      "id": "21",
+      "title": "The Love of My Life",
+      "author": "Rosie Walsh",
+      "genre": "Romance",
+      "publishedYear": 2023
+    },
+    {
+      "id": "22",
+      "title": "The Seven Moons of Maali Almeida",
+      "author": "Shehan Karunatilaka",
+      "genre": "Mystery",
+      "publishedYear": 2023
+    },
+    {
+      "id": "23",
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "author": "Gabrielle Zevin",
+      "genre": "Literary Fiction",
+      "publishedYear": 2023
+    },
+    {
+      "id": "24",
+      "title": "The Last Invitation",
+      "author": "Darby Kane",
+      "genre": "Thriller",
+      "publishedYear": 2023
+    }
+  ]
+}
